@@ -2,6 +2,10 @@
 
 <img src="assets/banner.png" width="100%" alt="juijitsu" />
 
+<h1>Hi 👋, I'm juijitsu</h1>
+
+<h3>AI agents and automation that survive contact with real data.</h3>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3400&pause=900&color=F0F0F0&center=true&vCenter=true&width=620&height=40&lines=AI%20agents%20that%20survive%20production%3BFail%20loudly%2C%20never%20corrupt%20silently%3BRetries%2C%20caching%2C%20idempotency" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3400&pause=900&color=16181D&center=true&vCenter=true&width=620&height=40&lines=AI%20agents%20that%20survive%20production%3BFail%20loudly%2C%20never%20corrupt%20silently%3BRetries%2C%20caching%2C%20idempotency" alt="AI agents that survive production" />
@@ -14,28 +18,9 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=57606A&height=3&section=header" width="100%" alt="" />
-
-## 🖋 juijitsu
-
-**AI agents and automation that survive contact with real data.**
-
 I build the parts most automation skips: retries, caching, idempotency and
 resume-on-failure — so a bad API response at 3am degrades loudly instead of
 corrupting a pipeline silently.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=57606A&height=3&section=header" width="100%" alt="" />
-
-## 🖥 whoami
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/neofetch-dark.svg" />
-  <img src="assets/neofetch.svg" alt="juijitsu" width="880" />
-</picture>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=57606A&height=3&section=header" width="100%" alt="" />
 
@@ -48,6 +33,15 @@ corrupting a pipeline silently.
 
 <sub>Refreshed automatically on 2026-09-02 (UTC).</sub>
 <!--END_SECTION:now-building-->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/neofetch-dark.svg" />
+  <img src="assets/neofetch.svg" alt="juijitsu" width="880" />
+</picture>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=57606A&height=3&section=header" width="100%" alt="" />
 
@@ -114,9 +108,9 @@ corrupting a pipeline silently.
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *I always get stuck with unfortunate circumstances.*
+> *You're so gullible! Don't you have any standards? So if I told you to spin around, you'd do it? If they told you to jump off a cliff, would you do that, too? I can't stand people who have no individuality!! (To Tohru)*
 >
-> **Nobara Kugisaki** &mdash; Jujutsu Kaisen
+> **Sohma Hiro** &mdash; Fruits Basket
 
 </td></tr></table>
 <!--END_SECTION:quote-->
