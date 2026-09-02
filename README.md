@@ -104,9 +104,9 @@
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *You will never be able to love anybody else until you love your self...*
+> *The heart becomes scratched and dented and repaired over time, and with one glance, you'd be able to tell your own from others.*
 >
-> **Lelouch Lamperouge** &mdash; Code Geass: Lelouch of the Rebellion
+> **Kraft Lawrence** &mdash; Spice and Wolf
 
 </td></tr></table>
 <!--END_SECTION:quote-->
