@@ -18,16 +18,12 @@ OUT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 
 FONT = "'Segoe UI',system-ui,-apple-system,sans-serif"
 NL = "\n"
 
-# Семь скринтонов. Порядок задаёт очередь языков: от сплошной заливки к воздуху.
-TONES = [
-    ("solid", None),
-    ("dots-dense", 2.3),
-    ("diag", None),
-    ("dots-mid", 1.7),
-    ("cross", None),
-    ("dots-thin", 1.1),
-    ("dots-faint", 0.7),
-]
+# Градации серого. Скринтон отвергнут намеренно: плитка узора 7px не
+# читается в легенде 11px и в ячейке календаря 12px — уровни сливаются.
+WHEEL_LIGHT = ["#16181D", "#3D4148", "#626770", "#8A8F98", "#B0B5BD", "#CDD1D7", "#E4E7EB"]
+WHEEL_DARK  = ["#F0F0F0", "#C9CDD3", "#A2A7AF", "#7B8089", "#565B63", "#3E434A", "#2A2E34"]
+HEAT_LIGHT  = ["#EDEFF2", "#C7CBD1", "#949AA3", "#5C626B", "#16181D"]
+HEAT_DARK   = ["#21262D", "#3E444D", "#656C75", "#9CA3AD", "#F0F0F0"]
 
 
 def palette(dark):
@@ -37,29 +33,9 @@ def palette(dark):
     return dict(ink="#16181D", paper="#FFFFFF", dim="#5B6169", rule="#D5D9DE")
 
 
-def defs(dark):
-    """Определения скринтонов. Точки рисуются чернилами по прозрачному фону."""
-    c = palette(dark)
-    p = ["<defs>"]
-    for name, r in TONES:
-        if name == "solid":
-            continue
-        p.append('<pattern id="%s" width="7" height="7" patternUnits="userSpaceOnUse">' % name)
-        if r is not None:
-            p.append('<circle cx="3.5" cy="3.5" r="%.1f" fill="%s"/>' % (r, c["ink"]))
-        elif name == "diag":
-            p.append('<path d="M-1 5 L5 -1 M1 8 L8 1" stroke="%s" stroke-width="2.1"/>' % c["ink"])
-        elif name == "cross":
-            p.append('<path d="M-1 5 L5 -1 M1 8 L8 1 M-1 2 L2 -1 M5 8 L8 5" stroke="%s" stroke-width="1.2"/>' % c["ink"])
-            p.append('<path d="M-1 2 L8 11 M-1 -1 L8 8" stroke="%s" stroke-width="1.2"/>' % c["ink"])
-        p.append("</pattern>")
-    p.append("</defs>")
-    return NL.join(p)
-
-
 def fill_for(i, dark):
-    name = TONES[i % len(TONES)][0]
-    return palette(dark)["ink"] if name == "solid" else "url(#%s)" % name
+    w = WHEEL_DARK if dark else WHEEL_LIGHT
+    return w[i % len(w)]
 
 
 def style(dark):
@@ -130,7 +106,6 @@ def render_languages(totals, dark, top=6):
     span = W - 2 * PAD
 
     p = ['<svg xmlns="http://www.w3.org/2000/svg" width="%d" height="%d" viewBox="0 0 %d %d" role="img" aria-label="Languages">' % (W, H, W, H)]
-    p.append(defs(dark))
     p.append(style(dark))
     p.append('<text class="t" x="%d" y="24" font-size="14" font-weight="700" letter-spacing="0.5">LANGUAGES</text>' % PAD)
 
@@ -154,7 +129,7 @@ def render_languages(totals, dark, top=6):
     for i, (lang, n) in enumerate(items):
         lx = PAD + (i % 2) * (span // 2)
         yy = ly + (i // 2) * 21
-        p.append('<rect class="sw" x="%d" y="%d" width="11" height="11" fill="%s"/>' % (lx, yy - 9, fill_for(i, dark)))
+        p.append('<rect class="sw" x="%d" y="%d" width="13" height="13" fill="%s"/>' % (lx, yy - 10, fill_for(i, dark)))
         p.append('<text class="lg" x="%d" y="%d" font-size="12">%s <tspan opacity="0.7">%.1f%%</tspan></text>'
                  % (lx + 18, yy, esc(lang), 100.0 * n / grand))
     p.append("</svg>")
@@ -178,9 +153,6 @@ def render_activity(weeks, total, dark, n_weeks=20):
     H = TOP + 7 * (CELL + GAP) - GAP + 28
     peak = max((d["contributionCount"] for w in weeks for d in w["contributionDays"]), default=0)
 
-    # уровень -> индекс скринтона: пусто, редкие точки, средние, плотные, заливка
-    LEVEL_TONE = ["dots-faint", "dots-thin", "dots-mid", "dots-dense", "solid"]
-
     def level(n):
         if n <= 0:
             return 0
@@ -190,11 +162,9 @@ def render_activity(weeks, total, dark, n_weeks=20):
         return 1 if r <= .25 else 2 if r <= .5 else 3 if r <= .75 else 4
 
     def cell_fill(lv):
-        t = LEVEL_TONE[lv]
-        return c["ink"] if t == "solid" else "url(#%s)" % t
+        return (HEAT_DARK if dark else HEAT_LIGHT)[lv]
 
     p = ['<svg xmlns="http://www.w3.org/2000/svg" width="%d" height="%d" viewBox="0 0 %d %d" role="img" aria-label="Activity">' % (W, H, W, H)]
-    p.append(defs(dark))
     p.append(style(dark))
     p.append('<text class="t" x="%d" y="24" font-size="14" font-weight="700" letter-spacing="0.5">ACTIVITY</text>' % PAD)
     p.append('<text class="lg" x="%d" y="24" font-size="12" text-anchor="end">%d contributions this year</text>' % (W - PAD, total))
