@@ -26,6 +26,19 @@ corrupting a pipeline silently.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=57606A&height=3&section=header" width="100%" alt="" />
 
+## 🖥 whoami
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/neofetch-dark.svg" />
+  <img src="assets/neofetch.svg" alt="juijitsu" width="880" />
+</picture>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=57606A&height=3&section=header" width="100%" alt="" />
+
 ## 🚀 Now Building
 
 <!--START_SECTION:now-building-->
@@ -78,50 +91,6 @@ corrupting a pipeline silently.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=57606A&height=3&section=header" width="100%" alt="" />
 
-## 📦 Selected projects
-
-<a href="https://github.com/juijitsu/docqa">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-docqa-dark.svg" />
-    <img src="assets/card-docqa.svg" alt="docqa" width="640" />
-  </picture>
-</a>
-
-Ask questions against your own documents and get answers that cite the exact
-passage. The anti-hallucination guarantee is structural, not a prompt: the model
-must return the IDs of the passages it used, and any ID that wasn't in the
-retrieved context is stripped and the answer flagged unsupported. A
-content-addressed embedding cache makes re-indexing an unchanged corpus a 100%
-cache hit and ~8x faster on a 4,669-chunk index.
-
-<a href="https://github.com/juijitsu/leadqual">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-leadqual-dark.svg" />
-    <img src="assets/card-leadqual.svg" alt="leadqual" width="640" />
-  </picture>
-</a>
-
-n8n posts an inbound lead, Claude scores it against a rubric, hot leads land in
-Slack with a reason and a next step. The model never picks the score: five criteria
-with fixed point ceilings, evidence quoted per criterion, total computed in code
-and clamped. The webhook is HMAC-signed with a replay window, and `external_id` is
-an idempotency key — so n8n retries never double-bill a model call.
-
-<a href="https://github.com/juijitsu/agentic-course">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-agentic-course-dark.svg" />
-    <img src="assets/card-agentic-course.svg" alt="agentic-course" width="640" />
-  </picture>
-</a>
-
-A twenty-day course on agentic systems, built as a static Next.js app —
-[read it here](https://juijitsu.github.io/agentic-course/). The argument is that
-the agent loop is one layer out of nine, and the other eight decide whether the
-thing holds up: harness, rules, skills, MCP and memory all treated as one scale of
-*when does this enter the context*. **Course content is in Russian.**
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=57606A&height=3&section=header" width="100%" alt="" />
-
 ## 📊 Snapshot
 
 <div align="center">
@@ -145,9 +114,9 @@ thing holds up: harness, rules, skills, MCP and memory all treated as one scale 
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *Taking responsibility for yourself is the first condition for humanity. One who cannot do even that is less than human. Just a dog, Kariya.*
+> *You're so gullible! Don't you have any standards? So if I told you to spin around, you'd do it? If they told you to jump off a cliff, would you do that, too? I can't stand people who have no individuality!! (To Tohru)*
 >
-> **Tohsaka Tokiomi** &mdash; Fate/Zero
+> **Sohma Hiro** &mdash; Fruits Basket
 
 </td></tr></table>
 <!--END_SECTION:quote-->
