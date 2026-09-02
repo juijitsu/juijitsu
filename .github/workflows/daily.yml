@@ -11,6 +11,11 @@ on:
       - "scripts/**"
       - ".github/workflows/daily.yml"
 
+# ВАЖНО. Календарю вкладов нужен PROFILE_TOKEN — личный токен со scope
+# read:user. Служебный GITHUB_TOKEN приватные вклады не видит и показывает
+# 11 вместо 47. Пока секрет не добавлен, используется запасной GITHUB_TOKEN
+# и цифра занижается.
+
 permissions:
   contents: write
 
@@ -30,19 +35,19 @@ jobs:
 
       - name: Перерисовать карточки языков и активности
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
           GH_USER: ${{ github.repository_owner }}
         run: python scripts/gen_stats.py
 
       - name: Перерисовать neofetch-карточку
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
           GH_USER: ${{ github.repository_owner }}
         run: python scripts/gen_neofetch.py
 
       - name: Обновить цитату дня и Now Building
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
           GH_USER: ${{ github.repository_owner }}
         run: python scripts/update_readme.py
 
