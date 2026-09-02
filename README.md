@@ -145,9 +145,9 @@ thing holds up: harness, rules, skills, MCP and memory all treated as one scale 
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *Remember. You can feel it if you hold your hand against your chest. It belongs to no one. It's our pulse, yours and mine. This is what brings us to the truth. It's what proves that we are the very world itself. Follow your instincts. The answer is already there.*
+> *If you're in a position to save people, you should never even joke like that. My father...The doctor...Would never abandon anyone. He'd never give up on a person's life, even if they tried to throw it away.*
 >
-> **Ergo Proxy** &mdash; Ergo Proxy
+> **Hiyori Iki** &mdash; Noragami
 
 </td></tr></table>
 <!--END_SECTION:quote-->
