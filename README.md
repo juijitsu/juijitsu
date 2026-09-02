@@ -114,9 +114,9 @@ corrupting a pipeline silently.
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *You're so gullible! Don't you have any standards? So if I told you to spin around, you'd do it? If they told you to jump off a cliff, would you do that, too? I can't stand people who have no individuality!! (To Tohru)*
+> *I always get stuck with unfortunate circumstances.*
 >
-> **Sohma Hiro** &mdash; Fruits Basket
+> **Nobara Kugisaki** &mdash; Jujutsu Kaisen
 
 </td></tr></table>
 <!--END_SECTION:quote-->
