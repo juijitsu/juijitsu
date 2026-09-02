@@ -6,14 +6,14 @@
 """
 import datetime, json, os, re, sys, urllib.request, urllib.error
 
-USER = os.environ.get("GH_USER", "amirk-dev")
+USER = os.environ.get("GH_USER", "juijitsu")
 TOKEN = os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN", "")
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 README = os.path.join(ROOT, "README.md")
 
 
 def api(url):
-    headers = {"Accept": "application/vnd.github+json", "User-Agent": "amirk-dev-profile"}
+    headers = {"Accept": "application/vnd.github+json", "User-Agent": "juijitsu-profile"}
     if TOKEN:
         headers["Authorization"] = "Bearer " + TOKEN
     with urllib.request.urlopen(urllib.request.Request(url, headers=headers), timeout=30) as r:
@@ -33,7 +33,7 @@ def replace_section(text, name, body):
 def anime_quote():
     try:
         req = urllib.request.Request("https://api.animechan.io/v1/quotes/random",
-                                     headers={"User-Agent": "amirk-dev-profile"})
+                                     headers={"User-Agent": "juijitsu-profile"})
         with urllib.request.urlopen(req, timeout=25) as r:
             d = json.load(r)["data"]
     except Exception as e:  # сеть или сервис недоступны — оставляем прошлую цитату

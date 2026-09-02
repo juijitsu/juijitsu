@@ -1,30 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="134" viewBox="0 0 480 134" role="img" aria-label="Languages">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="143" viewBox="0 0 480 143" role="img" aria-label="Languages">
+<defs>
+<pattern id="dots-dense" width="7" height="7" patternUnits="userSpaceOnUse">
+<circle cx="3.5" cy="3.5" r="2.3" fill="#F0F0F0"/>
+</pattern>
+<pattern id="diag" width="7" height="7" patternUnits="userSpaceOnUse">
+<path d="M-1 5 L5 -1 M1 8 L8 1" stroke="#F0F0F0" stroke-width="2.1"/>
+</pattern>
+<pattern id="dots-mid" width="7" height="7" patternUnits="userSpaceOnUse">
+<circle cx="3.5" cy="3.5" r="1.7" fill="#F0F0F0"/>
+</pattern>
+<pattern id="cross" width="7" height="7" patternUnits="userSpaceOnUse">
+<path d="M-1 5 L5 -1 M1 8 L8 1 M-1 2 L2 -1 M5 8 L8 5" stroke="#F0F0F0" stroke-width="1.2"/>
+<path d="M-1 2 L8 11 M-1 -1 L8 8" stroke="#F0F0F0" stroke-width="1.2"/>
+</pattern>
+<pattern id="dots-thin" width="7" height="7" patternUnits="userSpaceOnUse">
+<circle cx="3.5" cy="3.5" r="1.1" fill="#F0F0F0"/>
+</pattern>
+<pattern id="dots-faint" width="7" height="7" patternUnits="userSpaceOnUse">
+<circle cx="3.5" cy="3.5" r="0.7" fill="#F0F0F0"/>
+</pattern>
+</defs>
 <style>
-  .t { fill:#E7D3F2; font-family:'Segoe UI',system-ui,-apple-system,sans-serif; }
-  .lg { fill:#C9AEDD; font-family:'Segoe UI',system-ui,-apple-system,sans-serif; }
-  .track { fill:#2A2130; }
+  .t { fill:#F0F0F0; font-family:'Segoe UI',system-ui,-apple-system,sans-serif; }
+  .lg { fill:#9AA0A6; font-family:'Segoe UI',system-ui,-apple-system,sans-serif; }
+  .rule { stroke:#3A3F46; fill:none; }
+  .sw { stroke:#3A3F46; stroke-width:1; }
 </style>
-<text class="t" x="16" y="22" font-size="14" font-weight="600">Languages</text>
-<clipPath id="r"><rect x="16" y="34" width="448" height="14" rx="7"/></clipPath>
-<rect class="track" x="16" y="34" width="448" height="14" rx="7"/>
-<g clip-path="url(#r)">
-<rect x="16.00" y="34" width="144.87" height="14" fill="#FF8FB1"/>
-<rect x="160.87" y="34" width="141.12" height="14" fill="#C8A2E0"/>
-<rect x="301.99" y="34" width="116.02" height="14" fill="#7FD1B9"/>
-<rect x="418.01" y="34" width="38.47" height="14" fill="#FFC49B"/>
-<rect x="456.48" y="34" width="6.57" height="14" fill="#B98BD9"/>
-<rect x="463.05" y="34" width="0.95" height="14" fill="#9AD5E8"/>
+<text class="t" x="16" y="24" font-size="14" font-weight="700" letter-spacing="0.5">LANGUAGES</text>
+<clipPath id="clip"><rect x="16" y="36" width="448" height="16"/></clipPath>
+<g clip-path="url(#clip)">
+<rect x="16.00" y="36" width="139.78" height="16" fill="#F0F0F0"/>
+<rect x="155.78" y="36" width="136.16" height="16" fill="url(#dots-dense)"/>
+<rect x="291.94" y="36" width="127.69" height="16" fill="url(#diag)"/>
+<rect x="419.62" y="36" width="37.12" height="16" fill="url(#dots-mid)"/>
+<rect x="456.74" y="36" width="6.34" height="16" fill="url(#cross)"/>
+<rect x="463.08" y="36" width="0.92" height="16" fill="url(#dots-thin)"/>
 </g>
-<circle cx="21" cy="70" r="5" fill="#FF8FB1"/>
-<text class="lg" x="33" y="74" font-size="12">JavaScript <tspan opacity="0.65">32.3%</tspan></text>
-<circle cx="245" cy="70" r="5" fill="#C8A2E0"/>
-<text class="lg" x="257" y="74" font-size="12">TypeScript <tspan opacity="0.65">31.5%</tspan></text>
-<circle cx="21" cy="90" r="5" fill="#7FD1B9"/>
-<text class="lg" x="33" y="94" font-size="12">Python <tspan opacity="0.65">25.9%</tspan></text>
-<circle cx="245" cy="90" r="5" fill="#FFC49B"/>
-<text class="lg" x="257" y="94" font-size="12">CSS <tspan opacity="0.65">8.6%</tspan></text>
-<circle cx="21" cy="110" r="5" fill="#B98BD9"/>
-<text class="lg" x="33" y="114" font-size="12">HTML <tspan opacity="0.65">1.5%</tspan></text>
-<circle cx="245" cy="110" r="5" fill="#9AD5E8"/>
-<text class="lg" x="257" y="114" font-size="12">Dockerfile <tspan opacity="0.65">0.2%</tspan></text>
+<line class="rule" x1="155.78" y1="36" x2="155.78" y2="52" stroke-width="1.5"/>
+<line class="rule" x1="291.94" y1="36" x2="291.94" y2="52" stroke-width="1.5"/>
+<line class="rule" x1="419.62" y1="36" x2="419.62" y2="52" stroke-width="1.5"/>
+<line class="rule" x1="456.74" y1="36" x2="456.74" y2="52" stroke-width="1.5"/>
+<line class="rule" x1="463.08" y1="36" x2="463.08" y2="52" stroke-width="1.5"/>
+<rect x="16" y="36" width="448" height="16" fill="none" stroke="#F0F0F0" stroke-width="1.5"/>
+<rect class="sw" x="16" y="71" width="11" height="11" fill="#F0F0F0"/>
+<text class="lg" x="34" y="80" font-size="12">JavaScript <tspan opacity="0.7">31.2%</tspan></text>
+<rect class="sw" x="240" y="71" width="11" height="11" fill="url(#dots-dense)"/>
+<text class="lg" x="258" y="80" font-size="12">TypeScript <tspan opacity="0.7">30.4%</tspan></text>
+<rect class="sw" x="16" y="92" width="11" height="11" fill="url(#diag)"/>
+<text class="lg" x="34" y="101" font-size="12">Python <tspan opacity="0.7">28.5%</tspan></text>
+<rect class="sw" x="240" y="92" width="11" height="11" fill="url(#dots-mid)"/>
+<text class="lg" x="258" y="101" font-size="12">CSS <tspan opacity="0.7">8.3%</tspan></text>
+<rect class="sw" x="16" y="113" width="11" height="11" fill="url(#cross)"/>
+<text class="lg" x="34" y="122" font-size="12">HTML <tspan opacity="0.7">1.4%</tspan></text>
+<rect class="sw" x="240" y="113" width="11" height="11" fill="url(#dots-thin)"/>
+<text class="lg" x="258" y="122" font-size="12">Dockerfile <tspan opacity="0.7">0.2%</tspan></text>
 </svg>
