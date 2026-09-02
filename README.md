@@ -145,9 +145,9 @@ thing holds up: harness, rules, skills, MCP and memory all treated as one scale 
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *You're so gullible! Don't you have any standards? So if I told you to spin around, you'd do it? If they told you to jump off a cliff, would you do that, too? I can't stand people who have no individuality!! (To Tohru)*
+> *Taking responsibility for yourself is the first condition for humanity. One who cannot do even that is less than human. Just a dog, Kariya.*
 >
-> **Sohma Hiro** &mdash; Fruits Basket
+> **Tohsaka Tokiomi** &mdash; Fate/Zero
 
 </td></tr></table>
 <!--END_SECTION:quote-->
