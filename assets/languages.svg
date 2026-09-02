@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="134" viewBox="0 0 480 134" role="img" aria-label="Languages">
+<style>
+  .t { fill:#A97BC4; font-family:'Segoe UI',system-ui,-apple-system,sans-serif; }
+  .lg { fill:#9B7BB8; font-family:'Segoe UI',system-ui,-apple-system,sans-serif; }
+  .track { fill:#B98BD92E; }
+</style>
+<text class="t" x="16" y="22" font-size="14" font-weight="600">Languages</text>
+<clipPath id="r"><rect x="16" y="34" width="448" height="14" rx="7"/></clipPath>
+<rect class="track" x="16" y="34" width="448" height="14" rx="7"/>
+<g clip-path="url(#r)">
+<rect x="16.00" y="34" width="144.87" height="14" fill="#FF8FB1"/>
+<rect x="160.87" y="34" width="141.12" height="14" fill="#C8A2E0"/>
+<rect x="301.99" y="34" width="116.02" height="14" fill="#7FD1B9"/>
+<rect x="418.01" y="34" width="38.47" height="14" fill="#FFC49B"/>
+<rect x="456.48" y="34" width="6.57" height="14" fill="#B98BD9"/>
+<rect x="463.05" y="34" width="0.95" height="14" fill="#9AD5E8"/>
+</g>
+<circle cx="21" cy="70" r="5" fill="#FF8FB1"/>
+<text class="lg" x="33" y="74" font-size="12">JavaScript <tspan opacity="0.65">32.3%</tspan></text>
+<circle cx="245" cy="70" r="5" fill="#C8A2E0"/>
+<text class="lg" x="257" y="74" font-size="12">TypeScript <tspan opacity="0.65">31.5%</tspan></text>
+<circle cx="21" cy="90" r="5" fill="#7FD1B9"/>
+<text class="lg" x="33" y="94" font-size="12">Python <tspan opacity="0.65">25.9%</tspan></text>
+<circle cx="245" cy="90" r="5" fill="#FFC49B"/>
+<text class="lg" x="257" y="94" font-size="12">CSS <tspan opacity="0.65">8.6%</tspan></text>
+<circle cx="21" cy="110" r="5" fill="#B98BD9"/>
+<text class="lg" x="33" y="114" font-size="12">HTML <tspan opacity="0.65">1.5%</tspan></text>
+<circle cx="245" cy="110" r="5" fill="#9AD5E8"/>
+<text class="lg" x="257" y="114" font-size="12">Dockerfile <tspan opacity="0.65">0.2%</tspan></text>
+</svg>

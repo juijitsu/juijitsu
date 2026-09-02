@@ -1,0 +1,53 @@
+name: Обновление профиля
+
+# Раз в сутки: перерисовать карточки статистики, обновить цитату дня
+# и список «Now Building». Коммит делается только если что-то изменилось.
+on:
+  schedule:
+    - cron: "17 4 * * *"   # 04:17 UTC ежедневно
+  workflow_dispatch:        # и вручную кнопкой Run workflow
+  push:
+    paths:
+      - "scripts/**"
+      - ".github/workflows/daily.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Перерисовать карточки языков и активности
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python scripts/gen_stats.py
+
+      - name: Обновить цитату дня и Now Building
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python scripts/update_readme.py
+
+      - name: Закоммитить, если есть изменения
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A assets README.md
+          if git diff --staged --quiet; then
+            echo "изменений нет — коммит не нужен"
+          else
+            git commit -m "Профиль: обновление карточек и секций"
+            git push
+          fi

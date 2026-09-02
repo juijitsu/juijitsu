@@ -1,0 +1,49 @@
+# ЗАГОТОВКА — не выполняется. Чтобы включить, переименуйте файл в metrics.yml.
+#
+# Даёт две вещи, которых сегодня нечем наполнить:
+#
+#   1. plugin_topics    — секция «Starred topics» с иконками. Нужны звёзды:
+#                         сейчас на аккаунте их 0, секция отрендерится пустой.
+#   2. plugin_anilist   — «Любимые аниме» и «Любимые персонажи» с обложками
+#                         и портретами. Нужен аккаунт на anilist.co с
+#                         отмеченными избранными тайтлами и персонажами.
+#
+# Перед включением создайте Personal Access Token со scope `public_repo`
+# и положите его в Settings -> Secrets -> Actions как METRICS_TOKEN.
+# Затем добавьте в README место под картинку:
+#     <img src="assets/metrics.svg" alt="metrics" />
+#
+# name: Metrics
+#
+# on:
+#   schedule:
+#     - cron: "41 4 * * *"
+#   workflow_dispatch:
+#
+# permissions:
+#   contents: write
+#
+# jobs:
+#   metrics:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: lowlighter/metrics@latest
+#         with:
+#           token: ${{ secrets.METRICS_TOKEN }}
+#           user: amirk-dev
+#           filename: assets/metrics.svg
+#           base: ""                       # без шапки со звёздами и подписчиками
+#           config_timezone: Asia/Almaty
+#
+#           # ── Starred topics ───────────────────────────────────────────────
+#           plugin_topics: yes
+#           plugin_topics_mode: icons
+#           plugin_topics_limit: 24
+#
+#           # ── AniList: раскомментировать, когда появится аккаунт ───────────
+#           # plugin_anilist: yes
+#           # plugin_anilist_user: ВАШ_НИК_НА_ANILIST
+#           # plugin_anilist_medias: anime
+#           # plugin_anilist_sections: favorites, characters
+#           # plugin_anilist_limit: 3
+#           # plugin_anilist_limit_characters: 22
