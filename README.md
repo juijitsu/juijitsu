@@ -18,10 +18,6 @@
 
 </div>
 
-I build the parts most automation skips: retries, caching, idempotency and
-resume-on-failure — so a bad API response at 3am degrades loudly instead of
-corrupting a pipeline silently.
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=57606A&height=3&section=header" width="100%" alt="" />
 
 ## 🚀 Now Building
