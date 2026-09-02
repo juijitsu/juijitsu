@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="190" viewBox="0 0 640 190" role="img" aria-label="agentic-course">
+<defs>
+<clipPath id="frame"><rect x="0" y="0" width="640" height="190"/></clipPath>
+<pattern id="tone" width="6" height="6" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.5" fill="#F0F0F0"/></pattern>
+<linearGradient id="fadeGrad" x1="0" y1="0" x2="1" y2="0"><stop offset="0.30" stop-color="#000"/><stop offset="0.74" stop-color="#fff"/></linearGradient>
+<mask id="fade"><rect width="640" height="190" fill="url(#fadeGrad)"/></mask>
+</defs>
+<style>.n{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;font-weight:800;fill:#F0F0F0}.o{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;font-weight:600;fill:#9AA0A6}.d{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;fill:#9AA0A6}.s{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;font-weight:800;fill:#F0F0F0}.l{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;font-weight:600;fill:#9AA0A6;letter-spacing:0.6}</style>
+<rect width="640" height="190" fill="#0D1117"/>
+<g clip-path="url(#frame)" mask="url(#fade)" opacity="0.55">
+<path d="M500.4 206.8 L212.7 931.8 L499.2 206.3 Z" fill="#F0F0F0"/>
+<path d="M490.1 202.2 L134.4 896.4 L488.6 201.5 Z" fill="#F0F0F0"/>
+<path d="M480.3 196.7 L59.8 853.7 L478.6 195.6 Z" fill="#F0F0F0"/>
+<path d="M471.0 190.3 L-10.3 804.1 L469.2 188.8 Z" fill="#F0F0F0"/>
+<path d="M462.4 183.0 L-75.4 748.0 L460.4 181.1 Z" fill="#F0F0F0"/>
+<path d="M454.5 174.9 L-134.8 685.9 L452.5 172.6 Z" fill="#F0F0F0"/>
+<path d="M446.8 165.4 L-188.1 618.5 L445.9 164.2 Z" fill="#F0F0F0"/>
+<path d="M440.7 156.0 L-234.7 546.3 L439.7 154.3 Z" fill="#F0F0F0"/>
+<path d="M435.4 146.0 L-274.2 470.0 L434.4 144.0 Z" fill="#F0F0F0"/>
+<path d="M431.1 135.6 L-306.2 390.3 L430.2 133.1 Z" fill="#F0F0F0"/>
+<path d="M427.8 124.8 L-330.5 307.8 L427.1 121.9 Z" fill="#F0F0F0"/>
+<path d="M425.3 112.9 L-346.8 223.5 L425.1 111.4 Z" fill="#F0F0F0"/>
+<path d="M424.2 101.6 L-355.0 138.0 L424.1 99.8 Z" fill="#F0F0F0"/>
+<path d="M424.1 90.4 L-355.0 52.0 L424.2 88.2 Z" fill="#F0F0F0"/>
+<path d="M425.1 79.1 L-346.8 -33.5 L425.4 76.6 Z" fill="#F0F0F0"/>
+<path d="M427.1 68.0 L-330.5 -117.8 L427.7 65.2 Z" fill="#F0F0F0"/>
+<path d="M430.4 56.3 L-306.2 -200.3 L430.9 55.0 Z" fill="#F0F0F0"/>
+<path d="M434.6 45.8 L-274.2 -280.0 L435.3 44.2 Z" fill="#F0F0F0"/>
+<path d="M439.7 35.7 L-234.7 -356.3 L440.7 33.9 Z" fill="#F0F0F0"/>
+<path d="M445.7 26.2 L-188.1 -428.5 L447.1 24.2 Z" fill="#F0F0F0"/>
+<path d="M452.6 17.3 L-134.8 -495.9 L454.4 15.2 Z" fill="#F0F0F0"/>
+<path d="M460.3 9.0 L-75.4 -558.0 L462.5 6.9 Z" fill="#F0F0F0"/>
+<path d="M469.4 1.0 L-10.3 -614.1 L470.7 -0.0 Z" fill="#F0F0F0"/>
+<path d="M478.6 -5.6 L59.8 -663.7 L480.3 -6.7 Z" fill="#F0F0F0"/>
+<path d="M488.4 -11.3 L134.4 -706.4 L490.4 -12.4 Z" fill="#F0F0F0"/>
+<path d="M498.6 -16.1 L212.7 -741.8 L501.1 -17.1 Z" fill="#F0F0F0"/>
+</g>
+<path d="M0 190 L150 190 L0 116 Z" fill="url(#tone)" opacity="0.55" clip-path="url(#frame)"/>
+<rect x="454" y="8" width="178" height="174" fill="#0D1117" opacity="0.92"/>
+<line x1="454" y1="18" x2="454" y2="172" stroke="#F0F0F0" stroke-width="2"/>
+<text class="o" x="26" y="44" font-size="13">juijitsu/</text>
+<text class="n" x="26" y="76" font-size="31">agentic-course</text>
+<text class="d" x="26" y="108" font-size="12.5">A course on agentic systems. The agent loop is one layer out</text>
+<text class="d" x="26" y="126" font-size="12.5">of nine; the other eight decide whether the thing holds up in</text>
+<text class="d" x="26" y="144" font-size="12.5">production.</text>
+<text class="s" x="544" y="93" font-size="52" text-anchor="middle">20</text>
+<text class="l" x="544" y="121" font-size="9" text-anchor="middle">DAYS · NINE ARCHITECTURAL</text>
+<text class="l" x="544" y="133" font-size="9" text-anchor="middle">LAYERS</text>
+<rect x="1.25" y="1.25" width="637.5" height="187.5" fill="none" stroke="#F0F0F0" stroke-width="2.5"/>
+</svg>

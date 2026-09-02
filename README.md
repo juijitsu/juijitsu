@@ -29,9 +29,9 @@ corrupting a pipeline silently.
 ## 🚀 Now Building
 
 <!--START_SECTION:now-building-->
-- **[bc-rent-demo](https://github.com/juijitsu/bc-rent-demo)** &mdash; Business-centre lease management: an interactive demo of the tenant, contract and billi... `2026-09-02`
 - **[agentic-course](https://github.com/juijitsu/agentic-course)** &mdash; A twenty-day course on agentic systems: nine architectural layers, a design method, and... `2026-09-02`
 - **[leadqual](https://github.com/juijitsu/leadqual)** &mdash; Webhook lead qualification agent: n8n posts a lead, Claude scores it against a rubric,... `2026-07-20`
+- **[docqa](https://github.com/juijitsu/docqa)** &mdash; Grounded document Q&A: the model must cite the source passage it used, or the answer is... `2026-07-20`
 
 <sub>Refreshed automatically on 2026-09-02 (UTC).</sub>
 <!--END_SECTION:now-building-->
@@ -82,8 +82,8 @@ corrupting a pipeline silently.
 
 <a href="https://github.com/juijitsu/docqa">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/juijitsu/docqa/image?description=1&font=Inter&language=0&name=1&owner=1&pattern=Solid&theme=Dark" />
-    <img src="https://socialify.git.ci/juijitsu/docqa/image?description=1&font=Inter&language=0&name=1&owner=1&pattern=Solid&theme=Light" alt="docqa" width="640" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-docqa-dark.svg" />
+    <img src="assets/card-docqa.svg" alt="docqa" width="640" />
   </picture>
 </a>
 
@@ -96,8 +96,8 @@ cache hit and ~8x faster on a 4,669-chunk index.
 
 <a href="https://github.com/juijitsu/leadqual">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/juijitsu/leadqual/image?description=1&font=Inter&language=0&name=1&owner=1&pattern=Solid&theme=Dark" />
-    <img src="https://socialify.git.ci/juijitsu/leadqual/image?description=1&font=Inter&language=0&name=1&owner=1&pattern=Solid&theme=Light" alt="leadqual" width="640" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-leadqual-dark.svg" />
+    <img src="assets/card-leadqual.svg" alt="leadqual" width="640" />
   </picture>
 </a>
 
@@ -109,8 +109,8 @@ an idempotency key — so n8n retries never double-bill a model call.
 
 <a href="https://github.com/juijitsu/agentic-course">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/juijitsu/agentic-course/image?description=1&font=Inter&language=0&name=1&owner=1&pattern=Solid&theme=Dark" />
-    <img src="https://socialify.git.ci/juijitsu/agentic-course/image?description=1&font=Inter&language=0&name=1&owner=1&pattern=Solid&theme=Light" alt="agentic-course" width="640" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-agentic-course-dark.svg" />
+    <img src="assets/card-agentic-course.svg" alt="agentic-course" width="640" />
   </picture>
 </a>
 
@@ -145,9 +145,9 @@ thing holds up: harness, rules, skills, MCP and memory all treated as one scale 
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *If you're in a position to save people, you should never even joke like that. My father...The doctor...Would never abandon anyone. He'd never give up on a person's life, even if they tried to throw it away.*
+> *You're so gullible! Don't you have any standards? So if I told you to spin around, you'd do it? If they told you to jump off a cliff, would you do that, too? I can't stand people who have no individuality!! (To Tohru)*
 >
-> **Hiyori Iki** &mdash; Noragami
+> **Sohma Hiro** &mdash; Fruits Basket
 
 </td></tr></table>
 <!--END_SECTION:quote-->
@@ -173,9 +173,9 @@ data, and expand.
 and committed daily — no third-party uptime involved.<br />
 Built with <a href="https://shields.io/">shields.io</a>,
 <a href="https://simpleicons.org/">Simple Icons</a>,
-<a href="https://github.com/kyechan99/capsule-render">capsule-render</a>,
-<a href="https://github.com/DenverCoder1/readme-typing-svg">readme-typing-svg</a> and
-<a href="https://github.com/wei/socialify">socialify</a>.</sub>
+<a href="https://github.com/kyechan99/capsule-render">capsule-render</a> and
+<a href="https://github.com/DenverCoder1/readme-typing-svg">readme-typing-svg</a>.
+Project cards are drawn by <a href="scripts/gen_cards.py">gen_cards.py</a>.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=57606A&height=3&section=footer" width="100%" alt="" />
 
