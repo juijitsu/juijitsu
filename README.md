@@ -104,7 +104,7 @@
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *People don't give damn about reasons, but nobody can resist miracles.*
+> *You will never be able to love anybody else until you love your self...*
 >
 > **Lelouch Lamperouge** &mdash; Code Geass: Lelouch of the Rebellion
 
