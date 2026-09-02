@@ -104,9 +104,9 @@
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *It's not just allies who support each other. From your enemies, you learn so much and gain so much. Until the day you meet again... Just knowing they exist helps you to withstand the loneliness. Those who compete, even if they're enemies, help each other out.*
+> *"True to herself", "True to myself". We all have our own personal image that's dictated by others, one that's always off the mark. We wish to remain true to ourselves, but who gets to decide who we are as people? When our image never goes hand-in-hand with reality, where can we find something genuine? Where can we find our true selves?*
 >
-> **Hiroko Seto** &mdash; Your Lie in April
+> **Hachiman Hikigaya** &mdash; My Teen Romantic Comedy SNAFU TOO!
 
 </td></tr></table>
 <!--END_SECTION:quote-->
