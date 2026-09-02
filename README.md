@@ -126,9 +126,9 @@ thing holds up: harness, rules, skills, MCP and memory all treated as one scale 
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *If you feel yourself hitting up against your limit remember for what cause you clench your fists... remember why you started down this path, and let that memory carry you beyond your limit.*
+> *Games are not boring. Games purify our souls and leave room for new development that challenges the mind! They are the products of human wisdom!*
 >
-> **All Might** &mdash; My Hero Academia
+> **Seto Kaiba** &mdash; Yu-Gi-Oh!
 
 </td></tr></table>
 <!--END_SECTION:quote-->
