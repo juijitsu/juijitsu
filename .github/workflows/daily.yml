@@ -37,6 +37,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
           GH_USER: ${{ github.repository_owner }}
+          HAS_PROFILE_TOKEN: ${{ secrets.PROFILE_TOKEN != '' }}
         run: python scripts/gen_stats.py
 
       - name: Перерисовать neofetch-карточку

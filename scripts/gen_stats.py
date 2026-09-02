@@ -229,6 +229,12 @@ def main():
     if not TOKEN:
         print("нет токена — календарь пропущен", file=sys.stderr)
         return 0
+    # Служебный GITHUB_TOKEN не видит приватные вклады и даёт заниженное число.
+    # Записать его — значит соврать на профиле, поэтому лучше оставить прошлую
+    # карточку нетронутой до появления PROFILE_TOKEN.
+    if os.environ.get("HAS_PROFILE_TOKEN", "").lower() not in ("true", "1", "yes"):
+        print("PROFILE_TOKEN не задан — карточка активности не тронута", file=sys.stderr)
+        return 0
     weeks, total = collect_calendar()
     for dark, suf in ((False, ""), (True, "-dark")):
         with open(os.path.join(OUT, "activity%s.svg" % suf), "w", encoding="utf-8") as f:
