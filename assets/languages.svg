@@ -29,21 +29,21 @@
 <text class="t" x="16" y="24" font-size="14" font-weight="700" letter-spacing="0.5">LANGUAGES</text>
 <clipPath id="clip"><rect x="16" y="36" width="448" height="16"/></clipPath>
 <g clip-path="url(#clip)">
-<rect x="16.00" y="36" width="220.08" height="16" fill="#16181D"/>
-<rect x="236.08" y="36" width="215.88" height="16" fill="url(#dots-dense)"/>
-<rect x="451.97" y="36" width="9.53" height="16" fill="url(#diag)"/>
-<rect x="461.50" y="36" width="1.45" height="16" fill="url(#dots-mid)"/>
+<rect x="16.00" y="36" width="220.63" height="16" fill="#16181D"/>
+<rect x="236.63" y="36" width="215.36" height="16" fill="url(#dots-dense)"/>
+<rect x="452.00" y="36" width="9.51" height="16" fill="url(#diag)"/>
+<rect x="461.51" y="36" width="1.45" height="16" fill="url(#dots-mid)"/>
 <rect x="462.96" y="36" width="1.04" height="16" fill="url(#cross)"/>
 </g>
-<line class="rule" x1="236.08" y1="36" x2="236.08" y2="52" stroke-width="1.5"/>
-<line class="rule" x1="451.97" y1="36" x2="451.97" y2="52" stroke-width="1.5"/>
-<line class="rule" x1="461.50" y1="36" x2="461.50" y2="52" stroke-width="1.5"/>
+<line class="rule" x1="236.63" y1="36" x2="236.63" y2="52" stroke-width="1.5"/>
+<line class="rule" x1="452.00" y1="36" x2="452.00" y2="52" stroke-width="1.5"/>
+<line class="rule" x1="461.51" y1="36" x2="461.51" y2="52" stroke-width="1.5"/>
 <line class="rule" x1="462.96" y1="36" x2="462.96" y2="52" stroke-width="1.5"/>
 <rect x="16" y="36" width="448" height="16" fill="none" stroke="#16181D" stroke-width="1.5"/>
 <rect class="sw" x="16" y="71" width="11" height="11" fill="#16181D"/>
-<text class="lg" x="34" y="80" font-size="12">Python <tspan opacity="0.7">49.1%</tspan></text>
+<text class="lg" x="34" y="80" font-size="12">Python <tspan opacity="0.7">49.2%</tspan></text>
 <rect class="sw" x="240" y="71" width="11" height="11" fill="url(#dots-dense)"/>
-<text class="lg" x="258" y="80" font-size="12">TypeScript <tspan opacity="0.7">48.2%</tspan></text>
+<text class="lg" x="258" y="80" font-size="12">TypeScript <tspan opacity="0.7">48.1%</tspan></text>
 <rect class="sw" x="16" y="92" width="11" height="11" fill="url(#diag)"/>
 <text class="lg" x="34" y="101" font-size="12">CSS <tspan opacity="0.7">2.1%</tspan></text>
 <rect class="sw" x="240" y="92" width="11" height="11" fill="url(#dots-mid)"/>

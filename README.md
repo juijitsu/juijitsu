@@ -104,9 +104,9 @@
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *The heart becomes scratched and dented and repaired over time, and with one glance, you'd be able to tell your own from others.*
+> *It's not just allies who support each other. From your enemies, you learn so much and gain so much. Until the day you meet again... Just knowing they exist helps you to withstand the loneliness. Those who compete, even if they're enemies, help each other out.*
 >
-> **Kraft Lawrence** &mdash; Spice and Wolf
+> **Hiroko Seto** &mdash; Your Lie in April
 
 </td></tr></table>
 <!--END_SECTION:quote-->
