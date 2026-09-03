@@ -23,11 +23,11 @@
 ## 🚀 Now Building
 
 <!--START_SECTION:now-building-->
+- **[agentquests](https://github.com/juijitsu/agentquests)** &mdash; Learn AI engineering by shipping `2026-09-03`
 - **[agentic-course](https://github.com/juijitsu/agentic-course)** &mdash; A twenty-day course on agentic systems: nine architectural layers, a design method, and... `2026-09-02`
 - **[leadqual](https://github.com/juijitsu/leadqual)** &mdash; Webhook lead qualification agent: n8n posts a lead, Claude scores it against a rubric,... `2026-07-20`
-- **[docqa](https://github.com/juijitsu/docqa)** &mdash; Grounded document Q&A: the model must cite the source passage it used, or the answer is... `2026-07-20`
 
-<sub>Refreshed automatically on 2026-09-02 (UTC).</sub>
+<sub>Refreshed automatically on 2026-09-03 (UTC).</sub>
 <!--END_SECTION:now-building-->
 
 <div align="center">
@@ -104,9 +104,9 @@
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *"True to herself", "True to myself". We all have our own personal image that's dictated by others, one that's always off the mark. We wish to remain true to ourselves, but who gets to decide who we are as people? When our image never goes hand-in-hand with reality, where can we find something genuine? Where can we find our true selves?*
+> *[in her head] My happiness comes from the kindness of those around me.*
 >
-> **Hachiman Hikigaya** &mdash; My Teen Romantic Comedy SNAFU TOO!
+> **Honda Tohru** &mdash; Fruits Basket
 
 </td></tr></table>
 <!--END_SECTION:quote-->

@@ -8,25 +8,25 @@
 <text class="t" x="16" y="24" font-size="14" font-weight="700" letter-spacing="0.5">LANGUAGES</text>
 <clipPath id="clip"><rect x="16" y="36" width="448" height="16"/></clipPath>
 <g clip-path="url(#clip)">
-<rect x="16.00" y="36" width="220.63" height="16" fill="#16181D"/>
-<rect x="236.63" y="36" width="215.36" height="16" fill="#3D4148"/>
-<rect x="452.00" y="36" width="9.51" height="16" fill="#626770"/>
-<rect x="461.51" y="36" width="1.45" height="16" fill="#8A8F98"/>
-<rect x="462.96" y="36" width="1.04" height="16" fill="#B0B5BD"/>
+<rect x="16.00" y="36" width="309.88" height="16" fill="#16181D"/>
+<rect x="325.88" y="36" width="123.00" height="16" fill="#3D4148"/>
+<rect x="448.88" y="36" width="7.72" height="16" fill="#626770"/>
+<rect x="456.60" y="36" width="6.83" height="16" fill="#8A8F98"/>
+<rect x="463.42" y="36" width="0.58" height="16" fill="#B0B5BD"/>
 </g>
-<line class="rule" x1="236.63" y1="36" x2="236.63" y2="52" stroke-width="1.5"/>
-<line class="rule" x1="452.00" y1="36" x2="452.00" y2="52" stroke-width="1.5"/>
-<line class="rule" x1="461.51" y1="36" x2="461.51" y2="52" stroke-width="1.5"/>
-<line class="rule" x1="462.96" y1="36" x2="462.96" y2="52" stroke-width="1.5"/>
+<line class="rule" x1="325.88" y1="36" x2="325.88" y2="52" stroke-width="1.5"/>
+<line class="rule" x1="448.88" y1="36" x2="448.88" y2="52" stroke-width="1.5"/>
+<line class="rule" x1="456.60" y1="36" x2="456.60" y2="52" stroke-width="1.5"/>
+<line class="rule" x1="463.42" y1="36" x2="463.42" y2="52" stroke-width="1.5"/>
 <rect x="16" y="36" width="448" height="16" fill="none" stroke="#16181D" stroke-width="1.5"/>
 <rect class="sw" x="16" y="70" width="13" height="13" fill="#16181D"/>
-<text class="lg" x="34" y="80" font-size="12">Python <tspan opacity="0.7">49.2%</tspan></text>
+<text class="lg" x="34" y="80" font-size="12">Python <tspan opacity="0.7">69.2%</tspan></text>
 <rect class="sw" x="240" y="70" width="13" height="13" fill="#3D4148"/>
-<text class="lg" x="258" y="80" font-size="12">TypeScript <tspan opacity="0.7">48.1%</tspan></text>
+<text class="lg" x="258" y="80" font-size="12">TypeScript <tspan opacity="0.7">27.5%</tspan></text>
 <rect class="sw" x="16" y="91" width="13" height="13" fill="#626770"/>
-<text class="lg" x="34" y="101" font-size="12">CSS <tspan opacity="0.7">2.1%</tspan></text>
+<text class="lg" x="34" y="101" font-size="12">CSS <tspan opacity="0.7">1.7%</tspan></text>
 <rect class="sw" x="240" y="91" width="13" height="13" fill="#8A8F98"/>
-<text class="lg" x="258" y="101" font-size="12">Dockerfile <tspan opacity="0.7">0.3%</tspan></text>
+<text class="lg" x="258" y="101" font-size="12">JavaScript <tspan opacity="0.7">1.5%</tspan></text>
 <rect class="sw" x="16" y="112" width="13" height="13" fill="#B0B5BD"/>
-<text class="lg" x="34" y="122" font-size="12">JavaScript <tspan opacity="0.7">0.2%</tspan></text>
+<text class="lg" x="34" y="122" font-size="12">Dockerfile <tspan opacity="0.7">0.1%</tspan></text>
 </svg>

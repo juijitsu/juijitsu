@@ -14,9 +14,9 @@
 <text class="k" x="296" y="108" font-size="13">Host:</text>
 <text class="v" x="382" y="108" font-size="13">Almaty, Kazakhstan (UTC+5), remote</text>
 <text class="k" x="296" y="130" font-size="13">Uptime:</text>
-<text class="v" x="382" y="130" font-size="13">1 year, 6 months, 3 days</text>
+<text class="v" x="382" y="130" font-size="13">1 year, 6 months, 4 days</text>
 <text class="k" x="296" y="152" font-size="13">Lang:</text>
-<text class="v" x="382" y="152" font-size="13">Python 49%, TypeScript 48%, CSS 2%</text>
+<text class="v" x="382" y="152" font-size="13">Python 69%, TypeScript 27%, CSS 2%</text>
 <text class="k" x="296" y="174" font-size="13">Focus:</text>
 <text class="v" x="382" y="174" font-size="13">AI agents, automation, integrations</text>
 <text class="k" x="296" y="196" font-size="13">Shell:</text>
@@ -35,6 +35,6 @@
 <text x="38" y="362" font-size="12" font-weight="700" fill="#0D1117">gh ~/ juijitsu</text>
 <text class="d" x="186" y="362" font-size="12">_</text>
 <rect x="734" y="344" width="120" height="26" rx="13" fill="none" stroke="#3A3F46" stroke-width="1.5"/>
-<text class="v" x="794" y="362" font-size="12" text-anchor="middle">2026-09-02</text>
+<text class="v" x="794" y="362" font-size="12" text-anchor="middle">2026-09-03</text>
 <rect x="1.25" y="1.25" width="877.5" height="381.5" fill="none" stroke="#F0F0F0" stroke-width="2.5"/>
 </svg>
