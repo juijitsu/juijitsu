@@ -23,11 +23,11 @@
 ## 🚀 Now Building
 
 <!--START_SECTION:now-building-->
-- **[agentquests](https://github.com/juijitsu/agentquests)** &mdash; Learn AI engineering by shipping `2026-09-03`
+- **[agentquests](https://github.com/juijitsu/agentquests)** &mdash; Learn AI engineering by shipping `2026-09-04`
 - **[agentic-course](https://github.com/juijitsu/agentic-course)** &mdash; A twenty-day course on agentic systems: nine architectural layers, a design method, and... `2026-09-02`
 - **[leadqual](https://github.com/juijitsu/leadqual)** &mdash; Webhook lead qualification agent: n8n posts a lead, Claude scores it against a rubric,... `2026-07-20`
 
-<sub>Refreshed automatically on 2026-09-03 (UTC).</sub>
+<sub>Refreshed automatically on 2026-09-04 (UTC).</sub>
 <!--END_SECTION:now-building-->
 
 <div align="center">
@@ -104,9 +104,9 @@
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *[in her head] My happiness comes from the kindness of those around me.*
+> *A student who is too loyal to his master has no chance of surpassing that master... A mutinous spirit is the source of independence.*
 >
-> **Honda Tohru** &mdash; Fruits Basket
+> **Boris Konev** &mdash; Legend of the Galactic Heroes
 
 </td></tr></table>
 <!--END_SECTION:quote-->
