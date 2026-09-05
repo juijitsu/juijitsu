@@ -8,21 +8,21 @@
 <text class="t" x="16" y="24" font-size="14" font-weight="700" letter-spacing="0.5">LANGUAGES</text>
 <clipPath id="clip"><rect x="16" y="36" width="448" height="16"/></clipPath>
 <g clip-path="url(#clip)">
-<rect x="16.00" y="36" width="317.05" height="16" fill="#F0F0F0"/>
-<rect x="333.05" y="36" width="117.56" height="16" fill="#C9CDD3"/>
-<rect x="450.61" y="36" width="8.15" height="16" fill="#A2A7AF"/>
-<rect x="458.76" y="36" width="4.92" height="16" fill="#7B8089"/>
-<rect x="463.68" y="36" width="0.32" height="16" fill="#565B63"/>
+<rect x="16.00" y="36" width="321.68" height="16" fill="#F0F0F0"/>
+<rect x="337.68" y="36" width="113.40" height="16" fill="#C9CDD3"/>
+<rect x="451.08" y="36" width="7.86" height="16" fill="#A2A7AF"/>
+<rect x="458.94" y="36" width="4.75" height="16" fill="#7B8089"/>
+<rect x="463.69" y="36" width="0.31" height="16" fill="#565B63"/>
 </g>
-<line class="rule" x1="333.05" y1="36" x2="333.05" y2="52" stroke-width="1.5"/>
-<line class="rule" x1="450.61" y1="36" x2="450.61" y2="52" stroke-width="1.5"/>
-<line class="rule" x1="458.76" y1="36" x2="458.76" y2="52" stroke-width="1.5"/>
-<line class="rule" x1="463.68" y1="36" x2="463.68" y2="52" stroke-width="1.5"/>
+<line class="rule" x1="337.68" y1="36" x2="337.68" y2="52" stroke-width="1.5"/>
+<line class="rule" x1="451.08" y1="36" x2="451.08" y2="52" stroke-width="1.5"/>
+<line class="rule" x1="458.94" y1="36" x2="458.94" y2="52" stroke-width="1.5"/>
+<line class="rule" x1="463.69" y1="36" x2="463.69" y2="52" stroke-width="1.5"/>
 <rect x="16" y="36" width="448" height="16" fill="none" stroke="#F0F0F0" stroke-width="1.5"/>
 <rect class="sw" x="16" y="70" width="13" height="13" fill="#F0F0F0"/>
-<text class="lg" x="34" y="80" font-size="12">Python <tspan opacity="0.7">70.8%</tspan></text>
+<text class="lg" x="34" y="80" font-size="12">Python <tspan opacity="0.7">71.8%</tspan></text>
 <rect class="sw" x="240" y="70" width="13" height="13" fill="#C9CDD3"/>
-<text class="lg" x="258" y="80" font-size="12">TypeScript <tspan opacity="0.7">26.2%</tspan></text>
+<text class="lg" x="258" y="80" font-size="12">TypeScript <tspan opacity="0.7">25.3%</tspan></text>
 <rect class="sw" x="16" y="91" width="13" height="13" fill="#A2A7AF"/>
 <text class="lg" x="34" y="101" font-size="12">CSS <tspan opacity="0.7">1.8%</tspan></text>
 <rect class="sw" x="240" y="91" width="13" height="13" fill="#7B8089"/>

@@ -27,7 +27,7 @@
 - **[agentic-course](https://github.com/juijitsu/agentic-course)** &mdash; A twenty-day course on agentic systems: nine architectural layers, a design method, and... `2026-09-02`
 - **[leadqual](https://github.com/juijitsu/leadqual)** &mdash; Webhook lead qualification agent: n8n posts a lead, Claude scores it against a rubric,... `2026-07-20`
 
-<sub>Refreshed automatically on 2026-09-04 (UTC).</sub>
+<sub>Refreshed automatically on 2026-09-05 (UTC).</sub>
 <!--END_SECTION:now-building-->
 
 <div align="center">
@@ -104,9 +104,9 @@
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *A student who is too loyal to his master has no chance of surpassing that master... A mutinous spirit is the source of independence.*
+> *I am looking at things from a much higher perspective than you. I observe this world, this universe, the truth of all things. And I have come to realize that humanity must be destroyed. Out of all which the Gods have made, humans are their sole failure. They are a disease that must be vanquished. A filth that must be cleansed. They have no place here, in this universe, and if I am to make it a utopia once more, then I must take upon the grand task of removing humanity forever, in place of the Gods who refuse to admit their mistake.*
 >
-> **Boris Konev** &mdash; Legend of the Galactic Heroes
+> **Goku Black** &mdash; Dragon Ball Super
 
 </td></tr></table>
 <!--END_SECTION:quote-->

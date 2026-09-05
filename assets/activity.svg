@@ -6,7 +6,7 @@
   .sw { stroke:#D5D9DE; stroke-width:1; }
 </style>
 <text class="t" x="16" y="24" font-size="14" font-weight="700" letter-spacing="0.5">ACTIVITY</text>
-<text class="lg" x="464" y="24" font-size="12" text-anchor="end">140 contributions this year</text>
+<text class="lg" x="464" y="24" font-size="12" text-anchor="end">142 contributions this year</text>
 <rect class="sw" x="82" y="36" width="12" height="12" fill="#EDEFF2"><title>2026-04-19: 0</title></rect>
 <rect class="sw" x="82" y="52" width="12" height="12" fill="#EDEFF2"><title>2026-04-20: 0</title></rect>
 <rect class="sw" x="82" y="68" width="12" height="12" fill="#EDEFF2"><title>2026-04-21: 0</title></rect>
@@ -145,7 +145,8 @@
 <rect class="sw" x="386" y="68" width="12" height="12" fill="#C7CBD1"><title>2026-09-01: 1</title></rect>
 <rect class="sw" x="386" y="84" width="12" height="12" fill="#5C626B"><title>2026-09-02: 34</title></rect>
 <rect class="sw" x="386" y="100" width="12" height="12" fill="#16181D"><title>2026-09-03: 49</title></rect>
-<rect class="sw" x="386" y="116" width="12" height="12" fill="#C7CBD1"><title>2026-09-04: 12</title></rect>
+<rect class="sw" x="386" y="116" width="12" height="12" fill="#949AA3"><title>2026-09-04: 14</title></rect>
+<rect class="sw" x="386" y="132" width="12" height="12" fill="#EDEFF2"><title>2026-09-05: 0</title></rect>
 <text class="lg" x="82" y="166" font-size="11">Less</text>
 <rect class="sw" x="116" y="156" width="12" height="12" fill="#EDEFF2"/>
 <rect class="sw" x="132" y="156" width="12" height="12" fill="#C7CBD1"/>
