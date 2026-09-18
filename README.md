@@ -27,7 +27,7 @@
 - **[agentic-course](https://github.com/juijitsu/agentic-course)** &mdash; A twenty-day course on agentic systems: nine architectural layers, a design method, and... `2026-09-02`
 - **[leadqual](https://github.com/juijitsu/leadqual)** &mdash; Webhook lead qualification agent: n8n posts a lead, Claude scores it against a rubric,... `2026-07-20`
 
-<sub>Refreshed automatically on 2026-09-17 (UTC).</sub>
+<sub>Refreshed automatically on 2026-09-18 (UTC).</sub>
 <!--END_SECTION:now-building-->
 
 <div align="center">
@@ -104,9 +104,9 @@
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *If you lose credibility by just admitting fault, then you didn't have any in the first place.*
+> *I wonder... isn't it that when you become an adult, you have freedom to explore such a large world. I wonder why is it I feel that the world is so constricted at this moment.*
 >
-> **Fujitora** &mdash; One Piece
+> **Yoh Miyagi** &mdash; Junjo Romantica
 
 </td></tr></table>
 <!--END_SECTION:quote-->
