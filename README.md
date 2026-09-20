@@ -27,7 +27,7 @@
 - **[agentic-course](https://github.com/juijitsu/agentic-course)** &mdash; A twenty-day course on agentic systems: nine architectural layers, a design method, and... `2026-09-02`
 - **[leadqual](https://github.com/juijitsu/leadqual)** &mdash; Webhook lead qualification agent: n8n posts a lead, Claude scores it against a rubric,... `2026-07-20`
 
-<sub>Refreshed automatically on 2026-09-19 (UTC).</sub>
+<sub>Refreshed automatically on 2026-09-20 (UTC).</sub>
 <!--END_SECTION:now-building-->
 
 <div align="center">
@@ -104,9 +104,9 @@
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *I really do like you. You pissed me off, so I considered giving up for a minute, but I'd never lie about my feelings. So I won't quit. Even if you don't believe me now, I'll keep saying it until you do! I'll keep trying! This isn't over!*
+> *Crying when you need to cry is another way to show strength.*
 >
-> **Erika Shinohara** &mdash; Wolf Girl & Black Prince
+> **Fay D. Flourite** &mdash; Tsubasa RESERVoir CHRoNiCLE
 
 </td></tr></table>
 <!--END_SECTION:quote-->
