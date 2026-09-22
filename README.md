@@ -27,7 +27,7 @@
 - **[agentic-course](https://github.com/juijitsu/agentic-course)** &mdash; A twenty-day course on agentic systems: nine architectural layers, a design method, and... `2026-09-02`
 - **[leadqual](https://github.com/juijitsu/leadqual)** &mdash; Webhook lead qualification agent: n8n posts a lead, Claude scores it against a rubric,... `2026-07-20`
 
-<sub>Refreshed automatically on 2026-09-21 (UTC).</sub>
+<sub>Refreshed automatically on 2026-09-22 (UTC).</sub>
 <!--END_SECTION:now-building-->
 
 <div align="center">
@@ -104,9 +104,9 @@
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *WHO ARE YOU CALLING SO SMALL YOU WANNA CRUSH LIKE AN ANT?!*
+> *I don’t like the terms good person or bad person because it’s impossible to be entirely good to everyone, or entirely bad to everyone. To some, you are a good person, while to others you are a bad person.*
 >
-> **Edward Elric** &mdash; Fullmetal Alchemist
+> **Armin Arlert** &mdash; Attack on Titan
 
 </td></tr></table>
 <!--END_SECTION:quote-->
