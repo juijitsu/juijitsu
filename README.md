@@ -27,7 +27,7 @@
 - **[agentic-course](https://github.com/juijitsu/agentic-course)** &mdash; A twenty-day course on agentic systems: nine architectural layers, a design method, and... `2026-09-02`
 - **[leadqual](https://github.com/juijitsu/leadqual)** &mdash; Webhook lead qualification agent: n8n posts a lead, Claude scores it against a rubric,... `2026-07-20`
 
-<sub>Refreshed automatically on 2026-09-22 (UTC).</sub>
+<sub>Refreshed automatically on 2026-09-23 (UTC).</sub>
 <!--END_SECTION:now-building-->
 
 <div align="center">
@@ -104,9 +104,9 @@
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *I don’t like the terms good person or bad person because it’s impossible to be entirely good to everyone, or entirely bad to everyone. To some, you are a good person, while to others you are a bad person.*
+> *We want the ones we can't have and ignore the ones that want us but then, we end up with none in the end.*
 >
-> **Armin Arlert** &mdash; Attack on Titan
+> **Kou Mabuchi** &mdash; Blue Spring Ride
 
 </td></tr></table>
 <!--END_SECTION:quote-->
