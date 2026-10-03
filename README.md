@@ -27,7 +27,7 @@
 - **[agentic-course](https://github.com/juijitsu/agentic-course)** &mdash; A twenty-day course on agentic systems: nine architectural layers, a design method, and... `2026-09-02`
 - **[leadqual](https://github.com/juijitsu/leadqual)** &mdash; Webhook lead qualification agent: n8n posts a lead, Claude scores it against a rubric,... `2026-07-20`
 
-<sub>Refreshed automatically on 2026-10-02 (UTC).</sub>
+<sub>Refreshed automatically on 2026-10-03 (UTC).</sub>
 <!--END_SECTION:now-building-->
 
 <div align="center">
@@ -104,9 +104,9 @@
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *If you stay hidden like this, you'll be able to get away from the police, however, you will never escape your crime... Madam, are you trying... Are you trying to force your son to carry this burden for the rest of his life?*
+> *You are right. I have not yet introduced myself. I am Captain of the Seventh Division Komamura Sajin. And though it shames me, I am just as you say -- A meager worm of a man.*
 >
-> **Shinichi Kudou** &mdash; Case Closed
+> **Komamura Sajin** &mdash; Bleach
 
 </td></tr></table>
 <!--END_SECTION:quote-->
