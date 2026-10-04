@@ -27,7 +27,7 @@
 - **[agentic-course](https://github.com/juijitsu/agentic-course)** &mdash; A twenty-day course on agentic systems: nine architectural layers, a design method, and... `2026-09-02`
 - **[leadqual](https://github.com/juijitsu/leadqual)** &mdash; Webhook lead qualification agent: n8n posts a lead, Claude scores it against a rubric,... `2026-07-20`
 
-<sub>Refreshed automatically on 2026-10-03 (UTC).</sub>
+<sub>Refreshed automatically on 2026-10-04 (UTC).</sub>
 <!--END_SECTION:now-building-->
 
 <div align="center">
@@ -104,9 +104,9 @@
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *You are right. I have not yet introduced myself. I am Captain of the Seventh Division Komamura Sajin. And though it shames me, I am just as you say -- A meager worm of a man.*
+> *[Urahara writes Ichigo a message in blood] Please meet at Urahara shop immediately. [After Ichigo freaked out] P.S: If you look at this message and think that it is the message of a person before his death... then you have no sense of humor.*
 >
-> **Komamura Sajin** &mdash; Bleach
+> **Urahara Kisuke** &mdash; Bleach
 
 </td></tr></table>
 <!--END_SECTION:quote-->
