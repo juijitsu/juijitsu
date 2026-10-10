@@ -27,7 +27,7 @@
 - **[agentic-course](https://github.com/juijitsu/agentic-course)** &mdash; A twenty-day course on agentic systems: nine architectural layers, a design method, and... `2026-09-02`
 - **[leadqual](https://github.com/juijitsu/leadqual)** &mdash; Webhook lead qualification agent: n8n posts a lead, Claude scores it against a rubric,... `2026-07-20`
 
-<sub>Refreshed automatically on 2026-10-09 (UTC).</sub>
+<sub>Refreshed automatically on 2026-10-10 (UTC).</sub>
 <!--END_SECTION:now-building-->
 
 <div align="center">
@@ -104,9 +104,9 @@
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *I didn't come here to fight! I came here to hack at you violently!*
+> *I am Justice! I protect the innocent and those who fear evil. I'm the one that will become the god of a new world that every one desires!*
 >
-> **Toushirou Hitsugaya** &mdash; Bleach
+> **Light Yagami** &mdash; Death Note
 
 </td></tr></table>
 <!--END_SECTION:quote-->
