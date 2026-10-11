@@ -27,7 +27,7 @@
 - **[agentic-course](https://github.com/juijitsu/agentic-course)** &mdash; A twenty-day course on agentic systems: nine architectural layers, a design method, and... `2026-09-02`
 - **[leadqual](https://github.com/juijitsu/leadqual)** &mdash; Webhook lead qualification agent: n8n posts a lead, Claude scores it against a rubric,... `2026-07-20`
 
-<sub>Refreshed automatically on 2026-10-10 (UTC).</sub>
+<sub>Refreshed automatically on 2026-10-11 (UTC).</sub>
 <!--END_SECTION:now-building-->
 
 <div align="center">
@@ -104,9 +104,9 @@
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *I am Justice! I protect the innocent and those who fear evil. I'm the one that will become the god of a new world that every one desires!*
+> *I particularly dislike this emotion you call ANGER. It makes me lose sight of myself, you know. Just thinking of what happens to me if I'm not MYSELF. Disgusts me to no end.*
 >
-> **Light Yagami** &mdash; Death Note
+> **Mard Geer** &mdash; Fairy Tail
 
 </td></tr></table>
 <!--END_SECTION:quote-->
