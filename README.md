@@ -27,7 +27,7 @@
 - **[agentic-course](https://github.com/juijitsu/agentic-course)** &mdash; A twenty-day course on agentic systems: nine architectural layers, a design method, and... `2026-09-02`
 - **[leadqual](https://github.com/juijitsu/leadqual)** &mdash; Webhook lead qualification agent: n8n posts a lead, Claude scores it against a rubric,... `2026-07-20`
 
-<sub>Refreshed automatically on 2026-10-15 (UTC).</sub>
+<sub>Refreshed automatically on 2026-10-16 (UTC).</sub>
 <!--END_SECTION:now-building-->
 
 <div align="center">
@@ -104,9 +104,9 @@
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *Hmm... never noticed those before *after accidently groping Momiji's chest*.*
+> *There are people who don't know you, who are saying a lot of awful things. But just saying stuff is easy, and anyone can do it. However...There's no one out there who could take your place.*
 >
-> **Mamoru Kusanagi** &mdash; Blue Seed
+> **Mutta Namba** &mdash; Space Brothers
 
 </td></tr></table>
 <!--END_SECTION:quote-->
