@@ -27,7 +27,7 @@
 - **[agentic-course](https://github.com/juijitsu/agentic-course)** &mdash; A twenty-day course on agentic systems: nine architectural layers, a design method, and... `2026-09-02`
 - **[leadqual](https://github.com/juijitsu/leadqual)** &mdash; Webhook lead qualification agent: n8n posts a lead, Claude scores it against a rubric,... `2026-07-20`
 
-<sub>Refreshed automatically on 2026-10-17 (UTC).</sub>
+<sub>Refreshed automatically on 2026-10-18 (UTC).</sub>
 <!--END_SECTION:now-building-->
 
 <div align="center">
@@ -104,9 +104,9 @@
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *Smiles and laughter are always good, but never forget your Poker Face!*
+> *Vash the Stampede... every time I observe his actions I can't help but sense something hidden deep within him, something we can't being to understand. But this much is certain: everyone who has become involved with him has somehow regained an emotion which was once lost.*
 >
-> **Kaitou Kid** &mdash; Case Closed
+> **Meryl Stryfe** &mdash; Trigun
 
 </td></tr></table>
 <!--END_SECTION:quote-->
