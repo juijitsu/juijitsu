@@ -27,7 +27,7 @@
 - **[agentic-course](https://github.com/juijitsu/agentic-course)** &mdash; A twenty-day course on agentic systems: nine architectural layers, a design method, and... `2026-09-02`
 - **[leadqual](https://github.com/juijitsu/leadqual)** &mdash; Webhook lead qualification agent: n8n posts a lead, Claude scores it against a rubric,... `2026-07-20`
 
-<sub>Refreshed automatically on 2026-10-26 (UTC).</sub>
+<sub>Refreshed automatically on 2026-10-27 (UTC).</sub>
 <!--END_SECTION:now-building-->
 
 <div align="center">
@@ -104,9 +104,9 @@
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *Betrayal demands revenge. Sin must have punishment.*
+> *What's the point of something that disappears as soon as it's born?*
 >
-> **Horo** &mdash; Spice and Wolf
+> **Sasori** &mdash; Naruto
 
 </td></tr></table>
 <!--END_SECTION:quote-->
