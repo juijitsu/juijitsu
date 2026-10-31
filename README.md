@@ -27,7 +27,7 @@
 - **[agentic-course](https://github.com/juijitsu/agentic-course)** &mdash; A twenty-day course on agentic systems: nine architectural layers, a design method, and... `2026-09-02`
 - **[leadqual](https://github.com/juijitsu/leadqual)** &mdash; Webhook lead qualification agent: n8n posts a lead, Claude scores it against a rubric,... `2026-07-20`
 
-<sub>Refreshed automatically on 2026-10-30 (UTC).</sub>
+<sub>Refreshed automatically on 2026-10-31 (UTC).</sub>
 <!--END_SECTION:now-building-->
 
 <div align="center">
@@ -104,9 +104,9 @@
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *As long as you laugh at people's suffering, your goal will always be out of reach. If you never want to be defeated, you must first learn your own weakness, and always be kind.*
+> *Mistakes are not shackles that halt one from stepping forward. Rather, they are that which sustain and grow one's heart.*
 >
-> **Erza Scarlet** &mdash; Fairy Tail
+> **Mavis Vermillion** &mdash; Fairy Tail
 
 </td></tr></table>
 <!--END_SECTION:quote-->
