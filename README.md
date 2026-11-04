@@ -27,7 +27,7 @@
 - **[agentic-course](https://github.com/juijitsu/agentic-course)** &mdash; A twenty-day course on agentic systems: nine architectural layers, a design method, and... `2026-09-02`
 - **[leadqual](https://github.com/juijitsu/leadqual)** &mdash; Webhook lead qualification agent: n8n posts a lead, Claude scores it against a rubric,... `2026-07-20`
 
-<sub>Refreshed automatically on 2026-11-03 (UTC).</sub>
+<sub>Refreshed automatically on 2026-11-04 (UTC).</sub>
 <!--END_SECTION:now-building-->
 
 <div align="center">
@@ -104,9 +104,9 @@
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *Everyone has desires they can't tell anyone about. It goes without saying.*
+> *I may be unreliable, and I may not be able to do anything, but I’m here. I’ll always be with you. I’ll be always by your side.*
 >
-> **Yuuki Shinjuurou** &mdash; Un-Go
+> **Tada Banri** &mdash; Golden Time
 
 </td></tr></table>
 <!--END_SECTION:quote-->
