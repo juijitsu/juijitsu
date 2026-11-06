@@ -27,7 +27,7 @@
 - **[agentic-course](https://github.com/juijitsu/agentic-course)** &mdash; A twenty-day course on agentic systems: nine architectural layers, a design method, and... `2026-09-02`
 - **[leadqual](https://github.com/juijitsu/leadqual)** &mdash; Webhook lead qualification agent: n8n posts a lead, Claude scores it against a rubric,... `2026-07-20`
 
-<sub>Refreshed automatically on 2026-11-05 (UTC).</sub>
+<sub>Refreshed automatically on 2026-11-06 (UTC).</sub>
 <!--END_SECTION:now-building-->
 
 <div align="center">
@@ -104,9 +104,9 @@
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *Courage is being scared to death, but doing it anyways.*
+> *Come on. I don't like this trend of explaining anything and everything about my love life. It's impossible.*
 >
-> **Muguruma Kensei** &mdash; Bleach
+> **Koyomi Araragi** &mdash; Bakemonogatari
 
 </td></tr></table>
 <!--END_SECTION:quote-->
