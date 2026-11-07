@@ -27,7 +27,7 @@
 - **[agentic-course](https://github.com/juijitsu/agentic-course)** &mdash; A twenty-day course on agentic systems: nine architectural layers, a design method, and... `2026-09-02`
 - **[leadqual](https://github.com/juijitsu/leadqual)** &mdash; Webhook lead qualification agent: n8n posts a lead, Claude scores it against a rubric,... `2026-07-20`
 
-<sub>Refreshed automatically on 2026-11-06 (UTC).</sub>
+<sub>Refreshed automatically on 2026-11-07 (UTC).</sub>
 <!--END_SECTION:now-building-->
 
 <div align="center">
@@ -104,9 +104,9 @@
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *Come on. I don't like this trend of explaining anything and everything about my love life. It's impossible.*
+> *Plainly speaking war is nothing other than "wanting to impose your beliefs on your opponent." It only happens for that reason. You don't have any exception to that rule.*
 >
-> **Koyomi Araragi** &mdash; Bakemonogatari
+> **Koumei Ren** &mdash; Magi - The Labyrinth of Magic
 
 </td></tr></table>
 <!--END_SECTION:quote-->
