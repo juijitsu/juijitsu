@@ -27,7 +27,7 @@
 - **[agentic-course](https://github.com/juijitsu/agentic-course)** &mdash; A twenty-day course on agentic systems: nine architectural layers, a design method, and... `2026-09-02`
 - **[leadqual](https://github.com/juijitsu/leadqual)** &mdash; Webhook lead qualification agent: n8n posts a lead, Claude scores it against a rubric,... `2026-07-20`
 
-<sub>Refreshed automatically on 2026-11-07 (UTC).</sub>
+<sub>Refreshed automatically on 2026-11-08 (UTC).</sub>
 <!--END_SECTION:now-building-->
 
 <div align="center">
@@ -104,9 +104,9 @@
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *Plainly speaking war is nothing other than "wanting to impose your beliefs on your opponent." It only happens for that reason. You don't have any exception to that rule.*
+> *If you want to run from your past, fine. But whatever you do, don't run away from your present or worse, your future.*
 >
-> **Koumei Ren** &mdash; Magi - The Labyrinth of Magic
+> **Kyohei Kadota** &mdash; Durarara!!
 
 </td></tr></table>
 <!--END_SECTION:quote-->
