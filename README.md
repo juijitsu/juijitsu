@@ -27,7 +27,7 @@
 - **[agentic-course](https://github.com/juijitsu/agentic-course)** &mdash; A twenty-day course on agentic systems: nine architectural layers, a design method, and... `2026-09-02`
 - **[leadqual](https://github.com/juijitsu/leadqual)** &mdash; Webhook lead qualification agent: n8n posts a lead, Claude scores it against a rubric,... `2026-07-20`
 
-<sub>Refreshed automatically on 2026-11-11 (UTC).</sub>
+<sub>Refreshed automatically on 2026-11-12 (UTC).</sub>
 <!--END_SECTION:now-building-->
 
 <div align="center">
@@ -104,9 +104,9 @@
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *There are two things that collectors always want. The first is any item of extreme rarity. The second is colleagues to whom they can brag about theircollection.*
+> *I want to hear it again, yet I don't want to hear it again. I want to see her, yet I don't want to see her. What do you call this kind of feeling again?*
 >
-> **Kurapika** &mdash; Hunter x Hunter
+> **Kousei Arima** &mdash; Your Lie in April
 
 </td></tr></table>
 <!--END_SECTION:quote-->
