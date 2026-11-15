@@ -27,7 +27,7 @@
 - **[agentic-course](https://github.com/juijitsu/agentic-course)** &mdash; A twenty-day course on agentic systems: nine architectural layers, a design method, and... `2026-09-02`
 - **[leadqual](https://github.com/juijitsu/leadqual)** &mdash; Webhook lead qualification agent: n8n posts a lead, Claude scores it against a rubric,... `2026-07-20`
 
-<sub>Refreshed automatically on 2026-11-14 (UTC).</sub>
+<sub>Refreshed automatically on 2026-11-15 (UTC).</sub>
 <!--END_SECTION:now-building-->
 
 <div align="center">
@@ -104,9 +104,9 @@
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *Use your head not just your spirit. Think think think.*
+> *It isn't just "others". Not "others". It's my Family. I'll force my ideals on my family. And since they're family, I'll lie to them. I'll deceive them. I'll cause them trouble. I'll make them worry. I'll owe them things, things I'll never be able to repay. However, I think that's okay. If you say that being an impostor is evil, then I will shoulder the burden of that evil. If lying is a bad thing, then I'm fine being the bad person. I don't need them to like me. I'm fine with being the worst kind of person.*
 >
-> **Tanjiro Kamado** &mdash; Demon Slayer: Kimetsu no Yaiba
+> **Koyomi Araragi** &mdash; Nisemonogatari
 
 </td></tr></table>
 <!--END_SECTION:quote-->
