@@ -27,7 +27,7 @@
 - **[agentic-course](https://github.com/juijitsu/agentic-course)** &mdash; A twenty-day course on agentic systems: nine architectural layers, a design method, and... `2026-09-02`
 - **[leadqual](https://github.com/juijitsu/leadqual)** &mdash; Webhook lead qualification agent: n8n posts a lead, Claude scores it against a rubric,... `2026-07-20`
 
-<sub>Refreshed automatically on 2026-11-16 (UTC).</sub>
+<sub>Refreshed automatically on 2026-11-17 (UTC).</sub>
 <!--END_SECTION:now-building-->
 
 <div align="center">
@@ -104,9 +104,9 @@
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *[To Orihime, after she had being taken from Ichigo once again] A girl like you should smile more often. Overcast skies blot out the sun, and that always brings people's spirits down. So why not let the sun shine...For just a while longer?*
+> *Windscar!*
 >
-> **Aizen Sousuke** &mdash; Bleach
+> **Inuyasha** &mdash; InuYasha
 
 </td></tr></table>
 <!--END_SECTION:quote-->
