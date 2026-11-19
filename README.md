@@ -27,7 +27,7 @@
 - **[agentic-course](https://github.com/juijitsu/agentic-course)** &mdash; A twenty-day course on agentic systems: nine architectural layers, a design method, and... `2026-09-02`
 - **[leadqual](https://github.com/juijitsu/leadqual)** &mdash; Webhook lead qualification agent: n8n posts a lead, Claude scores it against a rubric,... `2026-07-20`
 
-<sub>Refreshed automatically on 2026-11-18 (UTC).</sub>
+<sub>Refreshed automatically on 2026-11-19 (UTC).</sub>
 <!--END_SECTION:now-building-->
 
 <div align="center">
@@ -104,9 +104,9 @@
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *What?! A mere slime proposes friendship with me, the feared Storm Dragon?!*
+> *We shouldn’t worry about being able to achieve ourdreams, as long as we have the desire to do it.*
 >
-> **Veldora Tempest** &mdash; That Time I Got Reincarnated as a Slime
+> **Coby** &mdash; One Piece
 
 </td></tr></table>
 <!--END_SECTION:quote-->
