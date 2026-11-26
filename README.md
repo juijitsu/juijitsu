@@ -27,7 +27,7 @@
 - **[agentic-course](https://github.com/juijitsu/agentic-course)** &mdash; A twenty-day course on agentic systems: nine architectural layers, a design method, and... `2026-09-02`
 - **[leadqual](https://github.com/juijitsu/leadqual)** &mdash; Webhook lead qualification agent: n8n posts a lead, Claude scores it against a rubric,... `2026-07-20`
 
-<sub>Refreshed automatically on 2026-11-25 (UTC).</sub>
+<sub>Refreshed automatically on 2026-11-26 (UTC).</sub>
 <!--END_SECTION:now-building-->
 
 <div align="center">
@@ -104,9 +104,9 @@
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *True freedom can't lean on anything. It's transient, lonely, and arduous.*
+> *You don't like being lonely, but you're afraid of people expressing their affection towards you. You pretend not to notice. You run away. You brush it off. You cover up. You reject. You even lie to yourself, convincing yourself that no one has any feelings for you.*
 >
-> **Yoshii Kazuho** &mdash; Texhnolyze
+> **Rika Shiguma** &mdash; Boku wa Tomodachi ga Sukunai
 
 </td></tr></table>
 <!--END_SECTION:quote-->
