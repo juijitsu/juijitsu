@@ -27,7 +27,7 @@
 - **[agentic-course](https://github.com/juijitsu/agentic-course)** &mdash; A twenty-day course on agentic systems: nine architectural layers, a design method, and... `2026-09-02`
 - **[leadqual](https://github.com/juijitsu/leadqual)** &mdash; Webhook lead qualification agent: n8n posts a lead, Claude scores it against a rubric,... `2026-07-20`
 
-<sub>Refreshed automatically on 2026-11-27 (UTC).</sub>
+<sub>Refreshed automatically on 2026-11-28 (UTC).</sub>
 <!--END_SECTION:now-building-->
 
 <div align="center">
@@ -104,9 +104,9 @@
 <!--START_SECTION:quote-->
 <table><tr><td>
 
-> *The ones who do what they want and enjoy the most of their lives are the ones who win in the end.*
+> *We can't waste time worrying about the what-if's. Rukia's execution date has been changed to noon tomorrow. So what? If the deadline has been changed to tomorrow... I'll just have to finish today!*
 >
-> **Charlie Staz** &mdash; Blood Lad
+> **Kurosaki Ichigo** &mdash; Bleach
 
 </td></tr></table>
 <!--END_SECTION:quote-->
